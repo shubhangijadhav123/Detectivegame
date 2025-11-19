@@ -1,8 +1,8 @@
-\ 🔍 AI Detective Escape Game
+\ 🔍  Detective Escape Game
 
 
 
-\*Live Demo:\* \[Play the Game](https://detectivegame119.streamlit.app/)
+\Live Demo:\ \[Play the Game](https://detectivegame119.streamlit.app/)
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-The \*AI Detective Escape Game\* is an interactive browser-based game where the player investigates a murder inside a mansion. The player interrogates suspects, collects clues, and uses AI-powered hints to deduce the killer before making the final accusation. The game simulates an AI detective assistant that evaluates clues and gives subtle suggestions, enhancing the immersive experience.
+The \AI Detective Escape Game\ is an interactive browser-based game where the player investigates a murder inside a mansion. The player interrogates suspects, collects clues, and uses AI-powered hints to deduce the killer before making the final accusation. The game simulates an AI detective assistant that evaluates clues and gives subtle suggestions, enhancing the immersive experience.
 
 
 
@@ -26,17 +26,17 @@ The \*AI Detective Escape Game\* is an interactive browser-based game where the 
 
 
 
-\- Three main suspects: \*Meera, Kabir, Raghav\*.  
+\ Three main suspects: \Meera, Kabir, Raghav\.  
 
-\- AI-generated hints based on clues and suspect behavior.  
+\ AI-generated hints based on clues and suspect behavior.  
 
-\- Sequential interrogation and clue collection system.  
+\ Sequential interrogation and clue collection system.  
 
-\- Decision-based gameplay: choices affect AI scoring but lead to a single final outcome.  
+\ Decision-based gameplay: choices affect AI scoring but lead to a single final outcome.  
 
-\- Final accusation phase with AI analysis summary.  
+\ Final accusation phase with AI analysis summary.  
 
-\- Simple, user-friendly interface built with \*Streamlit\*.  
+\ Simple, user-friendly interface built with \*Streamlit\*.  
 
 
 
@@ -48,7 +48,7 @@ The \*AI Detective Escape Game\* is an interactive browser-based game where the 
 
 
 
-1\. Click \*Start Investigation\* to begin.  
+1\. Click \Start Investigation\ to begin.  
 
 2\. Interrogate the suspects one by one.  
 
@@ -68,7 +68,7 @@ The \*AI Detective Escape Game\* is an interactive browser-based game where the 
 
 
 
-\- Each suspect has a hidden \*AI suspicion score\*.  
+\- Each suspect has a hidden \AI suspicion score\.  
 
 \- Interrogations and clue selections increase suspicion scores.  
 
