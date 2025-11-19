@@ -1,4 +1,4 @@
-\# 🔍 AI Detective Escape Game
+\ 🔍 AI Detective Escape Game
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-\## Project Overview
+\ Project Overview
 
 
 
@@ -18,11 +18,11 @@ The \*AI Detective Escape Game\* is an interactive browser-based game where the 
 
 
 
----
 
 
 
-\## Game Features
+
+\ Game Features
 
 
 
@@ -40,11 +40,11 @@ The \*AI Detective Escape Game\* is an interactive browser-based game where the 
 
 
 
----
 
 
 
-\## How to Play
+
+\ How to Play
 
 
 
@@ -60,11 +60,11 @@ The \*AI Detective Escape Game\* is an interactive browser-based game where the 
 
 
 
----
 
 
 
-\## AI Logic
+
+\ AI Logic
 
 
 
@@ -78,11 +78,11 @@ The \*AI Detective Escape Game\* is an interactive browser-based game where the 
 
 
 
----
 
 
 
-\## Technologies Used
+
+\ Technologies Used
 
 
 
@@ -94,11 +94,10 @@ The \*AI Detective Escape Game\* is an interactive browser-based game where the 
 
 
 
----
 
 
 
-\## Additional Features
+\ Additional Features
 
 
 
@@ -110,11 +109,10 @@ The \*AI Detective Escape Game\* is an interactive browser-based game where the 
 
 
 
----
 
 
 
-\## Conclusion
+\ Conclusion
 
 
 
